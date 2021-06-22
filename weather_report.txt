@@ -1,0 +1,24 @@
+-------------------------------------------------------------
+Weather Stats for - KARACHI  || 22 Jun 2021 | 09:53:22 PM
+-------------------------------------------------------------
+Current temperature is: 30.90 deg C.
+Current weather desc:	haze.
+Current Humidity:		62%.
+Current wind speed:		5.66 KMPH
+
+-------------------------------------------------------------
+Weather Stats for - SIALKOT  || 22 Jun 2021 | 09:53:33 PM
+-------------------------------------------------------------
+Current temperature is: 33.90 deg C.
+Current weather desc:	haze.
+Current Humidity:		36%.
+Current wind speed:		2.06 KMPH
+
+-------------------------------------------------------------
+Weather Stats for - KARCHI  || 22 Jun 2021 | 10:40:16 PM
+-------------------------------------------------------------
+Current temperature is: 27.90 deg C.
+Current weather desc:	clear sky.
+Current Humidity:		18%.
+Current wind speed:		6.17 KMPH
+
